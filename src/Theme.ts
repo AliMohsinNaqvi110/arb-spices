@@ -3,8 +3,8 @@ import { extendTheme } from "@chakra-ui/react";
 
 const theme = extendTheme({
   fonts: {
-    heading: `'Merriweather', serif`,
-    body: `'Merriweather', sans-serif`,
+    heading: `"Segoe UI", Tahoma, Geneva, Verdana,  serif`,
+    body: `"Segoe UI", Tahoma, Geneva, Verdana,  sans-serif`,
   },
   colors: {
     primary: {
