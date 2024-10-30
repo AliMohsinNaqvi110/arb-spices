@@ -1,4 +1,4 @@
-import { HStack, Text, Image, VStack, Avatar } from "@chakra-ui/react";
+import { HStack, Text, Avatar } from "@chakra-ui/react";
 import Logo from "../Assets/Logo.jpg";
 const Navbar = () => {
   return (

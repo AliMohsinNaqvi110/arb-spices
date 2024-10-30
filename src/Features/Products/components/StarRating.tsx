@@ -1,5 +1,5 @@
 import React from "react";
-import { Box, Icon, Text } from "@chakra-ui/react";
+import { Box, Text } from "@chakra-ui/react";
 
 interface StarRatingProps {
   rating: number;
